@@ -9,10 +9,10 @@
 -   GET para: **localhost/api/products/findByName/{name}**: Buscar produtos pelo nome, permitindo pesquisa parcial.
     
 ### Geração do banco
-_Para gerar a tabela utilizar o comando **php artisan migrate**_)
+_Para gerar a tabela utilizar o comando (**php artisan migrate**_)
 
 ### Método para validação e criação de produtos
-Os exemplos estão em app/Requests/StorageProductRequest.php e app/Requests/UpdateProductRequest.php_
+Os exemplos estão em app/Requests/StorageProductRequest.php e app/Requests/UpdateProductRequest.php
 
 ### Parte 2: Frontend (jQuery)
-_Acessar a página principal da aplicação, layout muito simples._)
+_Acessar a página principal da aplicação, layout muito simples._
