@@ -9,7 +9,7 @@
 ### Parte 1: Backend (PHP/Laravel e MySQL)
 
 1.  Crie uma nova aplicação Laravel com uma tabela chamada `produtos` que possui os seguintes campos: `id`, `nome`, `descricao`, `preco`, `quantidade`.
-    _Para gerar a tabela utilizar o comando **php artisan migrate**_
+   _Para gerar a tabela utilizar o comando **php artisan migrate**_
     
 3.  Crie um Model, Controller e Migration para a tabela `produtos`.
     
